@@ -4,6 +4,7 @@ I have tried to polish it and have tested it well :D.
 
 ## Usage
 The welcome screen shows the format data.
+![alt text](https://github.com/ASHUdev05/Weather-app/blob/Markdown-data/gnome-shell-screenshot-LXRR80.png?raw=true)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
