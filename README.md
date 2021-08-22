@@ -1,3 +1,8 @@
+![](https://img.shields.io/github/license/ASHUdev05/Weather-app)
+![](https://img.shields.io/github/stars/ASHUdev05/Weather-app)
+![](https://img.shields.io/github/issues/ASHUdev05/Weather-app)
+![](https://img.shields.io/github/forks/ASHUdev05/Weather-app)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/dc79562fd58f4d25b53f374ec8c07115)](https://www.codacy.com/gh/ASHUdev05/Weather-app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ASHUdev05/Weather-app&amp;utm_campaign=Badge_Grade)
 # Weather-app
 A web-app to display weather stats using the openweather API.
 I have tried to polish it and have tested it well :D.
