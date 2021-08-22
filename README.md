@@ -6,7 +6,8 @@
 # Weather-app
 A web-app to display weather stats using the openweather API.
 I have tried to polish it and have tested it well :D.
-
+## View
+View it here https://ashudev05.github.io/Weather-app/
 ## Usage
 The welcome screen shows the format data.
 ![alt text](https://github.com/ASHUdev05/Weather-app/blob/Markdown-data/gnome-shell-screenshot-LXRR80.png?raw=true)
